@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "Page desing for guideing people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dystroyer49ers"
+  },
+  "author": "Zachary Koyama",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6",
+    "tooltip.js": "^1.3.1"
+  }
+}
